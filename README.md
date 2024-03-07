@@ -1,6 +1,6 @@
 # Dino Game
 
-Welcome to the Dino Game! This project is a replica of the classic Chrome Dino jumping game. The game is built using HTML, CSS and JS. It features a simple gameplay where a dinosaur jumps over randomly generated cacti obstacles.
+Welcome to the Dino Game! It features a simple gameplay where a dinosaur jumps over randomly generated cacti obstacles, built with HTML, CSS and JS. 
 
 ## Live Demo
 
@@ -21,15 +21,6 @@ Check out the live demo of the Dino Game [here](https://dianamurariu.github.io/D
 6. **Sound Effects**: The game includes two sound effects:
    - **Jumping Sound**: Plays when the dinosaur jumps.
    - **Game Over Sound**: Plays when the game ends.
-
-## Project Structure
-
-The project is organized as follows:
-
-- **index.html**: The main HTML file containing the structure of the Dino Game.
-- **styles.css**: The CSS file with styles for different elements.
-- **script.js**: The JS file with logic for gameplay, UI controls, obstacle generation, score tracking, and sound effects.
-- **sound/**: Folder containing sound files.
 
 ## Canvas UI
 
