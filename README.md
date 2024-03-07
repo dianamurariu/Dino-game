@@ -4,7 +4,7 @@ Welcome to the Dino Game! This project is a replica of the classic Chrome Dino j
 
 ## Live Demo
 
-Check out the live demo of the Dino Game [here](#insert-live-demo-link).
+Check out the live demo of the Dino Game [here](https://dianamurariu.github.io/Dino-game/).
 
 ## Features
 
